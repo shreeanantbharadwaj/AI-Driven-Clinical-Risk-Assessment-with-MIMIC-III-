@@ -70,6 +70,3 @@ This project evaluates the performance of **Retrieval-Augmented Generation (RAG)
 - [Pinecone Documentation](https://docs.pinecone.io/)
 - [OpenAI API Reference](https://platform.openai.com/docs/api-reference)
 
-## Acknowledgments
-
-Special thanks to **Northeastern University** and all contributors for their support in completing this project.
